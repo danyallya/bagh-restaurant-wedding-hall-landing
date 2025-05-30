@@ -42,8 +42,8 @@ bagh-restaurant-wedding-hall-landing/
 ├── js/
 │ └── main.js # jQuery scripts
 └── images/
- # Panoramic view for parallax
 ```
+ # Panoramic view for parallax
  
 ## 🚀 How to Use
 1. Clone the repository:
