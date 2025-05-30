@@ -1,4 +1,4 @@
-```markdown
+
 
 # Bagh Restaurant & Wedding Hall - Single Page Landing
 
@@ -31,6 +31,8 @@ The design features a **horizontal parallax effect** to highlight the garden’s
 > ⚠️ Note: This is a frontend-only project. Backend integration can be added easily.
 
 ## 📁 Project Structure
+
+```markdown
 bagh-restaurant-wedding-hall-landing/
 ├── index.html # Main landing page with all sections
 └── panorama.html
@@ -41,10 +43,11 @@ bagh-restaurant-wedding-hall-landing/
 │ └── main.js # jQuery scripts
 └── images/
  # Panoramic view for parallax
-
+```
  
 ## 🚀 How to Use
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/danyallya/bagh-restaurant-wedding-hall-landing.git
-```
+   ```
